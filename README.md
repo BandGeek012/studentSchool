@@ -1,2 +1,2 @@
-# studentSchool
-student school database
+# studentschool
+Student School web app
